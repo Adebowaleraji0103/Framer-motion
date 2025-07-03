@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+
+@layer components{
+    .section{
+        @apply
+            px-[20rem]
+        
+    }
+}
+
+body {
+  background-color: rgb(31, 73, 31);
+}
