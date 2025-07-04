@@ -1,3 +1,5 @@
+import { motion } from "framer-motion";
+
 function RocketImage() {
   return (
     <div className="flex justify-center gap-10 mb-[6rem]">
