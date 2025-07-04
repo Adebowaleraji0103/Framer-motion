@@ -23,6 +23,15 @@ const Rocket = () => {
           Hello
         </motion.button>
       </div>
+      <div className="flex justify-center mt-8 mb-20">
+        <motion.button className=" text-white bg-[blue] px-5 py-2 font-bold w-fit text-[20px] rounded-[10px]"
+        whileHover={{
+          scale:1.2,
+          boxShadow:"3px 3px 3px lightblue"
+        }}
+
+        >Welcome</motion.button>
+      </div>
     </div>
   );
 };
