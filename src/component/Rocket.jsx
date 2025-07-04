@@ -15,7 +15,11 @@ const Rocket = () => {
       </div>
 
       <div className="flex justify-center">
-        <motion.button className="bg-white rounded-[15px] font-bold w-fit text-black px-6 py-2 text-[20px]">
+        <motion.button
+        initial={{x: "-50vh"}}
+         animate={{color:"red", x: 0, transition:"10000"}}
+        className="bg-white rounded-[15px] font-bold w-fit text-black px-6 py-2 text-[20px]">
+            
           Hello
         </motion.button>
       </div>
