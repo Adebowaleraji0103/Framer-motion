@@ -17,7 +17,7 @@ function RocketImage() {
 
       <div className="w-[250px] h-[270px] p-5 border-2 rounded-4xl border-zinc-700 bg-zinc-50 text-[1.7rem] text-zinc-500 items-center flex justify-center flex-col gap-3">
         <img className="w-[9rem]" src="./images/Robot-3.png" alt="" />
-        <motion.p>Infinty</motion.p>
+        <p>Infinty</p>
         <span>$$$</span>
       </div>
     </div>
