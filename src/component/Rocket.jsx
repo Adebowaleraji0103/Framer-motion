@@ -31,7 +31,7 @@ const Rocket = () => {
           color:"yellow"
         }}
 
-        >Welcome</motion.button>
+        >Welcom</motion.button>
       </div>
     </div>
   );
