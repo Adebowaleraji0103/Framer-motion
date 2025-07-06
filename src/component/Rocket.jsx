@@ -27,7 +27,7 @@ const Rocket = () => {
         <motion.button className=" text-white bg-[blue] px-5 py-2 font-bold w-fit text-[20px] rounded-[10px]"
         whileHover={{
           scale:1.2,
-          boxShadow:"3px 3px 3px lightblue",
+          boxShadow:"3px 3px 3px blue",
           color:"yellow"
         }}
 
