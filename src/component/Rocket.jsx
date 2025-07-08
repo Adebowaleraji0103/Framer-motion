@@ -4,7 +4,7 @@ import { hover, motion } from "framer-motion";
 const Rocket = () => {
   const buttonVariant = {
     hover: {
-      scale: 1.2,
+      scale: [1, 1.2, 1, 1.2, 1 ,1.2],
       boxShadow: "3px 3px 3px lightblue",
       color: "yellow",
     },
