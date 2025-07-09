@@ -1,5 +1,5 @@
 import RocketImage from "./RocketImage";
-import { hover, motion } from "framer-motion";
+// import { hover, motion } from "framer-motion";
 
 const Rocket = () => {
   const buttonVariant = {
