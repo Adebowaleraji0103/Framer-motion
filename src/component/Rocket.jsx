@@ -1,4 +1,4 @@
-import RocketImage from "./RocketImage";
+// import RocketImage from "./RocketImage";
 // import { hover, motion } from "framer-motion";
 
 const Rocket = () => {
